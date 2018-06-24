@@ -31,5 +31,5 @@ void loop() {
     lit = 0;
   }
 
-  delay(DELAY_MILLIS);
+  FastLED.delay(DELAY_MILLIS);
 }
